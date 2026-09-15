@@ -1,0 +1,6 @@
+{
+  "name": "SFA Amanda Group",
+  "description": "Multi-unit Sales Force Automation (SFA) platform for Amanda Group featuring a full desktop Web Admin Executive Portal and Mobile Sales field app powered by PostgreSQL.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
